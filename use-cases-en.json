@@ -1,0 +1,90 @@
+{
+	"page-title" : "SMARKIO | Success Cases",
+	"language" : {
+        "content" : "en"
+    },
+	"lingua-icone" : {
+        "src" : "img/flag/en.png"
+    },
+	"menu-inicio" : "Home",
+	"menu-servicos" : "Services",
+	"menu-casos" : "Success Cases",
+	"menu-sobre" : "About",
+	"menu-carreiras" : "Careers",
+
+	"title-use-cases" : "Success Cases",
+	"subtitle-use-cases" : "Some examples of successful SMARKIO integrations.",
+
+	"title-industry" : "Industries",
+	"subtitle-industry" : "SMARKIO is currently being used across many industries. See how we take advantage of our technology to make the most out of each one.",
+
+	"industry-item-1-title" : "Financial",
+	"industry-item-1-content" : "Increased sales <b>8 times</b>. <b>Real time</b> contact.",
+
+	"industry-item-2-title" : "Education",
+	"industry-item-2-content" : "<b>Recovered</b> shopping cart abandonment.",
+
+	"industry-item-3-title" : "Retail",
+	"industry-item-3-content" : "<b>Email and SMS</b> integration with workflows.",
+
+	"industry-item-4-title" : "Insurance",
+	"industry-item-4-content" : "Client <b>reactivation</b>.",
+
+	"industry-item-5-title" : "Services",
+	"industry-item-5-content" : "<b>Multichannel integration</b> and distribution of leads.",
+
+
+	"title-use-cases-2" : "Use Cases",
+	"subtitle-use-cases-2" : "A few examples of SMARKIO in action.",
+
+	"ekpt-case" : "Use Case - E-konomista",
+	"ekpt-case-1" : "The managers behind E-konomista have worked directly with SMARKIO in order to find solutions to the unsatisfactory performarce of the form displayed in their pages.<br><br>We wanted a solution that would bring focus to the email form, with the goard of increasing the visit to lead conversion rate, and decided to use a SMARKIO Overlay so that it wouldn't go unnoticed.<br><br>The results speak for themselves!",
+	"ekpt-case-2" : "1. Replacing the in-page form by an overlay",
+	"ekpt-case-3" : "In-page form<p>0,25%<br><span>visit to lead conversion rate</span>",
+	"ekpt-case-4" : "Generic overlay<p>+248%<br><span>visit to lead conversion rate</span>",
+	"ekpt-case-5" : "The form presented in the page, even if placed above the fold, was not very noticeable, hurt the usability of the website, and had a conversion rate of only 0,25%. <b>Replacing it with a SMARKIO Overlay allowed fo a more navigable page, and, at the same time, put the form front and center of the page</b>.",
+	"ekpt-case-6" : "2. Segmentation of the overlays",
+	"ekpt-case-7" : "\"Savings\" segment<p class=\"negative\">-9%<br><span>visit to lead conversion rate</span>",
+	"ekpt-case-8" : "\"Taxes\" segment<p>+214%<br><span>visit to lead conversion rate</span>",
+	"ekpt-case-9" : "<span style=\"font-size: 15px\">\"Entrepreneurship\"</span> segment<p>+256%<br><span>visit to lead conversion rate</span>",
+	"ekpt-case-10" : "\"Jobs\" segment<p>+46%<br><span>visit to lead conversion rate</span>",
+	"ekpt-case-11" : "+45%<br><span>overall conversion rate</span>",
+
+	"ekpt-case-12" : "After having proved the efficacy of the SMARKIO Overlay when it came to collecting leads, we looked into making the most of the visibility of the new form. By segmenting the overlay and showing content that was relevant to each different visitor, <b>we managed to increase the conversion rate by up to 256%</b>.",
+	"ekpt-case-13" : "3. Conclusion and final results",
+	"ekpt-case-14" : "+403%<br><span>lead conversion rate</span>",
+	"ekpt-case-15" : "In-page form<p>0,25%<br><span>visit to lead conversion rate</span>",
+	"ekpt-case-16" : "+248%<br><span>lead conversion rate</span>",
+	"ekpt-case-17" : "General overlay<p>0,87%<br><span>visit to lead conversion rate</span>",
+	"ekpt-case-18" : "+45%<br><span>lead conversion rate</span>",
+	"ekpt-case-19" : "Segmented overlay<p>1,26%<br><span>visit to lead conversion rate</span>",
+
+
+
+	"ekpt-case-20" : "+403%<br><span>lead conversion rate</span>",
+	"ekpt-case-21" : "At the end of the day, and in just two simple steps, <b>SMARKIO helped E-konomista increase their lead generation by 403%</b>.",
+
+	"fotosport-case-1" : "Use Case - Fotosport",
+	"fotosport-case-2" : "Fotosport came to us with the goal of improving the display-to-lead conversion rate on their website. The starting point was a simple overlay containing one one form field that was shown in all pages of the website.<br><br>After analyzing the request, we decided to try a different approach, with the goal of taking advantage of the existing traffic: since Fotosport products are very personal - mostly dealing with photography and capturing one's moments -, <b>we decided to use a SMARKIO Automated Chat to give the interaction a human touch</b>.<br><br>The forms were replaced by a friendly and straight-forward script, in order to reflect  the company's personality.",
+	"fotosport-case-3" : "Results - Conversion by Automated Chat",
+
+	"fotosport-case-4" : "Overlay with form<p>6,7%<br><span>display to lead conversion rate</span>",
+
+	"fotosport-case-5" : "Automated chat <p>8,3%<br><span>display to lead conversion rate</span>",
+
+	"fotosport-case-6" : "+23,3%<br><span>conversion increase</span>",
+
+	"fotosport-case-7" : "In both campaigns - generic and product-specific - we observed an increase in conversion rate when replacing the form by a SMARKIO Automated Chat of 23,3%.",
+
+	"fotosport-case-8" : "Results - Conversion by Segmentation",
+
+	"fotosport-case-9" : "Generic campaign<p>7,3%<br><span>display to lead conversion rate</span>",
+	"fotosport-case-10" : "Segmented campaign <p>22,1%<br><span>display to lead conversion rate</span>",
+	"fotosport-case-11" : "+201%<br><span>conversion increase</span>",
+
+
+	"fotosport-case-12" : "By showing content that's relevant to the visitor's preferences, we managed to improve engagement and increase a higher number of visitors into leads. <b>We observed an increase of 201% compared to the generic campaign.</b>"
+
+
+
+}

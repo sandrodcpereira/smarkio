@@ -1,0 +1,51 @@
+{
+	"page-title" : "SMARKIO | Solving the digital marketing puzzle",
+	"language" : {
+        "content" : "en"
+    },
+	"lingua-icone" : {
+        "src" : "img/flag/en.png"
+    },
+	"menu-inicio" : "Home",
+	"menu-servicos" : "Services",
+	"menu-casos" : "Success Cases",
+	"menu-sobre" : "About",
+	"menu-carreiras" : "Careers",
+	
+	"read-more" : "Read more",
+	"and-more" : "And much more...",
+
+	"title-index" : "Technology + Know-how = Results",
+	"subtitle-index" : "Solving the digital marketing puzzle",
+
+	"tri-objectivos" : "Business<br>objectives",
+	"tri-tech" : "Technology",
+	"tri-knowhow" : "Know-how",
+	"tri-descricao" : "We'll help you optimize the performance of your business by combining our technology and know-how with your marketing goals.",
+
+	"digital-descricao-1" : "Does your digital marketing plan suffer from any of these problems?",
+	"digital-descricao-2" : "If you are unhappy with any of these issues, SMARKIO is the solution to your digital marketing problems.",
+
+	"digital-1" : "Too <b>complex</b>?",
+	"digital-2" : "Too <b>expensive</b>?",
+	"digital-3" : "Too much <b>work</b>?",
+	"digital-4" : "<b>Unsatisfactory</b><br>results?",
+	"digital-5" : "Lack of <b>trust</b>?",
+
+	"title-a-plataforma" : "The SMARKIO platform",
+	"subtitle-a-plataforma" : "The platform that will change the way you see digital marketing. <a href=\"services.html\">Read more</a> about our know-how and technology.",
+
+	"content-plataforma-onsite" : "SMARKIO offers several features to make sure the connection between our clients and their customers is as productive as possible, and that the end goal is achieved without the customer ever leaving the website.",
+	"content-plataforma-offsite" : "If the customer leaves the website without converting, SMARKIO offers many features - like sending email and text messages - so that the customers don't need to stay on the page to convert.",
+	"content-plataforma-reporting" : "SMARKIO offers simple but powerful reports and dashboards, to make sure that you can follow the performance of every last component of your digtal marketing campaigns.",
+
+	"title-clientes" : "What our clients say about us",
+	"subtitle-clientes" : "A sample of what we have done for our clients and can also do for you:",
+
+	"testemunho-1" : "Implementing SMARKIO on Big Prêmio nearly tripled the lead conversion of visitors on mobile devices and has revolutionized the way we segment our database by clusters of interests. We observed a great increase in revenue with a lower volume of sends.",
+	"testemunho-2" : "The SMARKIO platform allowed us to re-energize our newslist very quickly, by offering very interesting interaction rates for overlays and automated chats. We're talking about visitors who show interest in a specific service and/or product, meaning their value is terrific! Without SMARKIO, these vistitors would have been just \"a few more\" in a sea of those who visit our site with no way for us to reach them.",
+	"testemunho-3" : "Not having an automated marketing solution is a bottleneck to any marketer. In an inbound marketing strategy, SMARKIO helps generate more and better results by making sure we get better qualified leads and increasing the performance of our campaigns.",
+
+	"title-clientes-list" : "Client list",
+	"subtitle-clientes-list" : "A list of some of the companies that trust SMARKIO:"
+}

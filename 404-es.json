@@ -1,0 +1,22 @@
+{
+	"page-title" : "SMARKIO | 404 Página no encontrada",
+	"language" : {
+        "content" : "es"
+    },
+	"lingua-icone" : {
+        "src" : "img/flag/es.png"
+    },
+	"menu-inicio" : "Inicio",
+	"menu-servicos" : "Servicios",
+	"menu-casos" : "Casos de éxito",
+	"menu-sobre" : "Acerca de nosotros",
+	"menu-carreiras" : "Trabaja con nosotros",
+
+	"404-1" : "¡Vaya, parece que falta algo!",
+	"404-2" : "Lo sentimos, esta página no existe.",
+	"404-home" : "Volver a inicio",
+	"404-back" : "Página anterior"
+
+
+
+}

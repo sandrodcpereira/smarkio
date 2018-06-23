@@ -1,0 +1,86 @@
+{
+	"page-title" : "SMARKIO | Servicios",
+	"language" : {
+        "content" : "es"
+    },
+	"lingua-icone" : {
+        "src" : "img/flag/es.png"
+    },
+	"menu-inicio" : "Inicio",
+	"menu-servicos" : "Servicios",
+	"menu-casos" : "Casos de éxito",
+	"menu-sobre" : "Acerca de nosotros",
+	"menu-carreiras" : "Trabaja con nosotros",
+
+	"title-servicos" : "Servicios",
+	"subtitle-servicos" : "Nuestros conocimientos y herramientas son la clave para los resultados que busca.",
+
+	"title-knowhow" : "Buen hacer",
+	"subtitle-knowhow" : "Con SMARKIO, no solo tiene acceso a nuestra tecnología: todo nuestro conocimiento está a su disposición.",
+
+	"knowhow-copywriting" : "Desarrollo de material creativo para la construcción de una comunicación impactante, innovadora y de resultado.",
+	"knowhow-marketing" : "Todo lo que necesita para unir su marca con la audiencia que esta quiere alcanzar, del concepto a la práctica.",
+	"knowhow-bi" : "Estudio, recopilación de datos e investigación, para garantizar la construcción de un proyecto con éxito.",
+	"knowhow-qa" : "Análisis, revisión y verificación, para asegurar que el resultado sea de calidad.",
+	"knowhow-deliverability" : "Impacto garantizado, con tasas de entrega elevadísimas para mantener el compromiso con resultados.",
+
+
+	"title-tech" : "Tecnología",
+	"subtitle-tech" : "Estas son algunas de las herramientas usadas para poner nuestros conocimientos en práctica y maximizar la conversión de nuestros clientes.",
+
+	"toggle-integracao" : "Integraciones",
+	"toggle-leadman" : "Gestión de leads", 
+	"tech-what-is" : "Qué es",
+	"tech-main-features" : "Principales características",
+	"and-more" : "Y más... ",
+	"tech-integrate-with" : "Nos integramos con:",
+	
+	"tech-overlay-1" : "Los Overlays SMARKIO son la mejor manera de captar la atención de sus visitantes y de mostrarles el contenido que desea promover.",
+	"tech-overlay-2" : "El overlay abre su contenido sobre su página, dentro de la ventana del navegador y reduce así las distracciones.",
+	"tech-overlay-li-1" : "Dos tipos diferentes de overlays —simples y expansibles—, cada uno con varias opciones de posicionamiento en la página y comportamiento.",
+	"tech-overlay-li-2" : "<i>Ajustes preestablecidos (presets)</i> diferentes para visitantes en el ordenador de mesa o dispositivo móvil, y la posibilidad de escoger un tamaño personalizado.",
+	"tech-overlay-li-3" : "Opciones inteligentes para determinar a qué visitantes se debe mostrar el overlay y en qué páginas.",
+	"tech-overlay-li-4" : "Opciones para limitar el número de veces que se muestra un overlay a cada visitante por visita, sesión, hora/día/semana, etc.",
+	
+	"tech-integrations-1" : "La plataforma SMARKIO se integra fácilmente con las herramientas que ya usa y las que pueda usar en el futuro. Integre leads de otras plataformas, exporte leads hacia otros servicios, todo de manera fácil e inmediata.",
+	
+	"tech-leadman-1" : "Gestione su lista de contactos con nuestras potentes herramientas y compruebe si tiene toda la información que necesita y ninguna no importante.",
+	"tech-leadman-li-1" : "Línea de tiempo con las acciones realizadas por SMARKIO y por el lead.",
+	"tech-leadman-li-2" : "Verifique que solo tiene los contactos que le interesan con nuestras reglas de integración: borre leads duplicados, leads sin información relevante para sus campañas, o cualquier otra condición que desee.",
+	"tech-leadman-li-3" : "Añada una puntuación a sus leads conforme a sus intereses y a sus acciones a lo largo de las campañas, y sepa los que serán más fáciles de convertir.",
+	"tech-leadman-li-4" : "Descubra y establezca relaciones entre sus leads: familiares, cónyuges, amigos, etc.",
+
+	"tech-c2c-1" : "Click to call SMARKIO crea una línea de contacto directa entre su negocio y sus leads.",
+	"tech-c2c-2" : "Con esta funcionalidad, puede realizar llamadas a cualquier lead que solicite y tener un guion de venta preparado con toda la información que su operador necesita para efectuar la venta o prestar apoyo.",
+	"tech-c2c-li-1" : "Sin configuraciones complejas: nosotros lo gestionamos por usted.",
+	"tech-c2c-li-2" : "Gestione sus números. Añada hasta tres números (configuración estándar) para realizar las llamadas y seleccione el principal.",
+	"tech-c2c-li-3" : "Configure el mensaje que el lead y el operador van a escuchar antes de efectuar la llamada: transmita toda la información necesaria para efectuar la venta e optimice el rendimiento de su centro de llamadas.",
+
+	"tech-chat-1" : "Los Chats automatizados SMARKIO son un modo más fácil de convertir a los visitantes en leads.",
+	"tech-chat-2" : "La interfaz familiar del chat ofrece el confort de la interacción humana en vez de formularios pesados, mientras que el guion previene al visitante de desviar la conversación. El resultado final es una interacción fácil de usar y sin distracciones que convierte mejor que nunca.",
+	"tech-chat-li-1" : "Varios temas personalizables disponibles. Añada fácilmente su logotipo y sus colores. (Opciones avanzadas, como CSS personalizado, también disponibles.)",
+	"tech-chat-li-2" : "Un guion fácil de configurar. Escoja entre varias acciones para diferentes resultados (outputs). Decir «hola» es tan fácil como preguntarle el nombre a su visitante.",
+	"tech-chat-li-3" : "Validación de entrada (input) que garantiza que recibe la información esperada.",
+	"tech-chat-li-4" : "Los guiones ramificados permiten prever varias posibilidades de conversión y venta.",
+
+	"tech-mail-1" : "Los correos electrónicos y SMS SMARKIO son la base de las campañas de publicidad fuera del sitio web (retargeting offsite).",
+	"tech-mail-2" : "Configure sus mensajes directamente en la plataforma y distribúyalas en el momento oportuno con los Workflows SMARKIO.",
+	"tech-mail-li-1" : "De configuración fácil e inmediata.",
+	"tech-mail-li-2" : "Cargue sus ficheros HTML directamente, o cree kits con nuestro editor WYSIWYG.",
+	"tech-mail-li-3" : "Controle todas las aperturas y clics, y use nuestros Workflows para actuar a fin de maximizar la venta.",
+	"tech-mail-li-4" : "Limite el número de envíos de correos electrónicos y SMS (por kit y/o por instalación).",
+
+	"tech-workflows-1" : "Los Workflows son una herramienta para relacionar el contenido a los visitantes y a los leads seguros: sin esfuerzo, automáticamente, y fuera del sitio web.",
+	"tech-workflows-li-1" : "Posibilidad de actuar sobre visitantes y/o leads.",
+	"tech-workflows-li-2" : "Defina los objetivos de las acciones de retargeting con nuestros motores de reglas. Diferencie visitantes por atributos, segmentos, puntuación, y hasta acciones, como aperturas, clics de correo electrónico, visitas a una web o páginas específicas.",
+	"tech-workflows-li-3" : "Varias opciones de retargeting, como enviar correos electrónicos, disparar webhooks, marcar llamadas, enviar SMS y otras.",
+
+	"tech-reporting-1" : "SMARKIO Reporting es un conjunto de informes y paneles de menús que le permiten ver cómo cada funcionalidad de nuestra plataforma ayuda a su negocio.",
+	"tech-reporting-li-1" : "Gráficos interactivos que permiten determinar fácilmente el número de nuevas visitas y retornos hechos a la página, número de accesos vía móvil o PC, etc.",
+	"tech-reporting-li-2" : "Compare datos con un periodo anterior correspondiente.",
+	"tech-reporting-li-3" : "Nuestro extenso abanico de filtros permite ver cómo cada se está comportando cada campaña/proveedor/ítem de retargeting.",
+	"tech-reporting-li-4" : "Exporte cualquier informe en formato CSV."
+
+
+
+}

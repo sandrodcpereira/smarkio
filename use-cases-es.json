@@ -1,0 +1,92 @@
+{
+	"page-title" : "SMARKIO | Casos de éxito",
+	"language" : {
+        "content" : "es"
+    },
+	"lingua-icone" : {
+        "src" : "img/flag/es.png"
+    },
+	"menu-inicio" : "Inicio",
+	"menu-servicos" : "Servicios",
+	"menu-casos" : "Casos de éxito",
+	"menu-sobre" : "Acerca de nosotros",
+	"menu-carreiras" : "Trabaja con nosotros",
+
+	"title-use-cases" : "Casos de éxito",
+	"subtitle-use-cases" : "Algunos casos de éxito de SMARKIO.",
+
+	"title-industry" : "Sectores",
+	"subtitle-industry" : "Vea en qué sectores opera actualmente SMARKIO y algunos ejemplos de cómo sacamos provecho de sus funcionalidades para aumentar el negocio de cada una de ellas.",
+
+	"industry-item-1-title" : "Financiero",
+	"industry-item-1-content" : "<b>8 veces</b> más ventas.<br>Contacto en <b>al instante</b>.",
+
+	"industry-item-2-title" : "Educación",
+	"industry-item-2-content" : "<b>Recuperación</b> de abandono de carrito.",
+
+	"industry-item-3-title" : "Venta al pormenor",
+	"industry-item-3-content" : "Workflows integrados con <b>correo electrónico y SMS</b>.",
+
+	"industry-item-4-title" : "Seguros",
+	"industry-item-4-content" : "<b>Reactivación</b> de clientes.",
+
+	"industry-item-5-title" : "Servicios",
+	"industry-item-5-content" : "<b>Integración multicanal</b> y distribución de leads.",
+
+
+	"title-use-cases-2" : "Casos de uso",
+	"subtitle-use-cases-2" : "Vea algunos ejemplos de SMARKIO en acción.",
+
+	"ekpt-case" : "Caso de uso: E-konomista",
+	"ekpt-case-1" : "Los gestores del portal E-konomista trabajaron junto con SMARKIO con la intención de encontrar soluciones para satisfacer el rendimiento insatisfactorio del formulario presentado en sus páginas.<br><br>Teníamos la intención de encontrar una solución que permitiese dar mayor visibilidad al campo de recogida de correos electrónicos con el objetivo de aumentar la tasa de conversión de visita a lead, y optamos por usar los Overlays SMARKIO para que ese campo no pasase desapercibido.<br><br>¡Los resultados hablan por sí mismos!",
+	"ekpt-case-2" : "1. Sustitución de formulario en la página por overlay",
+	"ekpt-case-3" : "Formulario en la página<p>0,25 %<br><span>visit to lead conversion rate</span>",
+	"ekpt-case-4" : "Overlay genérico<p>+248 %<br><span>visit to lead conversion rate</span>",
+	"ekpt-case-5" : "El formulario presentado en la página —aunque estaba colocado <i>above the fold</i>— tenía poco destaque, perjudicaba la navegación en el sitio y tenía una tasa de conversión solo del 0,25 %. <b>La sustitución por un overlay SMARKIO permitió destacar el contenido de la página y, al mismo tiempo, dar una gran visibilidad al campo de la recogida de correos electrónicos.</b>",
+	"ekpt-case-6" : "2. Segmentación de los overlays",
+	"ekpt-case-7" : "Segmento \"Ahorro\"<p class=\"negative\">-9%<br><span>visit to lead conversion rate</span>",
+	"ekpt-case-8" : "Segmento \"Impuestos\"<p>+214%<br><span>visit to lead conversion rate</span>",
+	"ekpt-case-9" : "Segmento <span style=\"font-size: 15px\">\"Emprendedorismo\"</span><p>+256%<br><span>visit to lead conversion rate</span>",
+	"ekpt-case-10" : "Segmento \"Empleo\"<p>+46%<br><span>visit to lead conversion rate</span>",
+	"ekpt-case-11" : "+45%<br><span>overall conversion rate</span>",
+
+	"ekpt-case-12" : "Una vez comprobada la eficacia del overlay SMARKIO en la recogida de leads, intentamos maximizar y aprovechar mejor la visibilidad que otorgamos al campo de la recogida de correos eelctrónicos. Al segmentar el overlay y mostrar el contenido relevante para cada visitante, <b>pudimos aumentar la tasa de conversión hasta un 256 %</b>.",
+	"ekpt-case-13" : "3. Conclusión y resultados finales",
+	"ekpt-case-14" : "+403 %<br><span>lead conversion rate</span>",
+	"ekpt-case-15" : "Formulario en la página<p>0,25 %<br><span>visit to lead conversion rate</span>",
+	"ekpt-case-16" : "+248%<br><span>lead conversion rate</span>",
+	"ekpt-case-17" : "Overlay general<p>0,87 %<br><span>visit to lead conversion rate</span>",
+	"ekpt-case-18" : "+45%<br><span>lead conversion rate</span>",
+	"ekpt-case-19" : "Overlay segmentado<p>1,26 %<br><span>visit to lead conversion rate</span>",
+
+
+
+	"ekpt-case-20" : "+403 %<br><span>lead conversion rate</span>",
+	"ekpt-case-21" : "A fin de cuentas y en dos sencillos pasos, <b>SMARKIO ayudó a E-konomista a aumentar la generación de leads en un 403 %</b>.",
+
+	"fotosport-case-1" : "Caso de uso: Fotosport",
+	
+	"fotosport-case-2" : "Fotosport trabajó con nosotros con el objetivo de aumentar la tasa de conversión de display-to-lead en su sitio web. El punto de partida fue un overlay simple con solo un campo de recogida de correos electrónicos que mostraba en todas las páginas del sitio.<br><br>Después de analizar el pedido, decidimos optar por un planteamiento diferente, con el objetivo de sacar el máximo partido del tráfico existente en el sitio: como los productos de Fotosport son muy personales —mayoritariamente, están relacionados con fotografía y captura de momentos—, <b>decidimos usar el chat automatizado SMARKIO para conseguir dar un toque más humano a la recogida de datos</b>.<br><br>Los formularios fueron sustituidos por un guion accesible, simpático y directo, para reflejar la personalidad de nuestro cliente.",
+	"fotosport-case-3" : "Resultados: Conversión por chat automatizado",
+
+	"fotosport-case-4" : "Formulario en overlay<p>6,7%<br><span>display to lead conversion rate</span>",
+
+	"fotosport-case-5" : "Chat automatizado <p>8,3%<br><span>display to lead conversion rate</span>",
+
+	"fotosport-case-6" : "+23,3%<br><span>conversion increase</span>",
+
+	"fotosport-case-7" : "En las dos campañas —genérica y específica de producto— comprobamos la existencia de un aumento en la tasa de conversión cuando sustituimos el formulario por un chat automatizado SMARKIO. <b>El aumento registrado fue del 23,3 %.</b>",
+
+	"fotosport-case-8" : "Resultados: Conversión por segmentación",
+
+	"fotosport-case-9" : "Campaña genérica<p>7,3 %<br><span>display to lead conversion rate</span>",
+
+	"fotosport-case-10" : "Campaña segmentada <p>22,1 %<br><span>display to lead conversion rate</span>",
+
+	"fotosport-case-11" : "+201 %<br><span>conversion increase</span>",
+
+	"fotosport-case-12" : "Al mostrar contenido relevante con relación a las preferencias de los visitantes, segmentando el chat mostrado, conseguimos también aumentar la tasa de fidelidad y convertir un número mayor de visitas en leads. <b>Observamos un aumento del 201 % frente a la campaña genérica.</b>"
+
+
+
+}

@@ -1,0 +1,53 @@
+{
+	"page-title" : "SMARKIO | Resolviendo el rompecabezas del marketing digital",
+	"language" : {
+        "content" : "es"
+    },
+	"lingua-icone" : {
+        "src" : "img/flag/es.png"
+    },
+	"menu-inicio" : "Inicio",
+	"menu-servicos" : "Servicios",
+	"menu-casos" : "Casos de éxito",
+	"menu-sobre" : "Acerca de nosotros",
+	"menu-carreiras" : "Trabaja con nosotros",
+
+	"read-more" : "Más información",
+	"and-more" : "Y mucho más...",
+
+	"title-index" : "Tecnología + buen hacer = resultados",
+	"subtitle-index" : "Resolviendo el rompecabezas del marketing digital",
+
+	"tri-objectivos" : "Objetivos de negocio",
+	"tri-tech" : "Tecnología",
+	"tri-knowhow" : "Buen hacer",
+	"tri-descricao" : "Vamos a ayudarlo a aumentar el desempeño de su negocio aliando nuestra tecnología y buen hacer a los objetivos de su plan de marketing.",
+	"digital-descricao-1" : "¿Su plan de marketing digital padece alguno de estos problemas?",
+	"digital-descricao-2" : "Si está insatisfecho con alguno de estos aspectos de su esquema de marketing digital, SMARKIO es su solución.",
+	"digital-1" : "¿Muy <b>complejo</b>?",
+	"digital-2" : "¿Muy <b>caro</b>?",
+	"digital-3" : "¿Muy <b>costoso</b>?",
+	"digital-4" : "¿Resultados <b>insatisfactorios</b>?",
+	"digital-5" : "¿Falta de <b>confianza</b>?",
+
+	"title-a-plataforma" : "La plataforma SMARKIO",
+	"subtitle-a-plataforma" : "La plataforma que cambiará su forma de ver el marketing digital. <a href=\"services.html\">Más información</a> sobre nuestro buen hacer y tecnologías.",
+
+	"content-plataforma-onsite" : "Para que el contacto entre el consumidor y el cliente sea lo más productivo posible, SMARKIO pone a disposición una serie de opciones para que todos los visitantes lleguen al destino final y cumplan el objetivo trazado en la planificación, sin salir nunca del sitio web.",
+	"content-plataforma-offsite" : "Para quien sale del sitio sin llegar al destino final, SMARKIO dispone de varias funcionalidades, como envío de correos electrónicos y SMS, para que ese visitante también alcance el destino final.",
+	"content-plataforma-reporting" : "Para presentar cada una de las funcionalidades de la plataforma y permitir el seguimiento de los resultados, SMARKIO ofrece informes y menús de accesos simples, pero muy detallados.",
+
+	"title-clientes" : "Lo que nuestros clientes dicen sobre nosotros",
+	"subtitle-clientes" : "Vea lo que SMARKIO ya ha hecho por nuestros clientes y lo que también puede hacer por usted:",
+	"testemunho-1" : "La implementación del chat de SMARKIO en el Big Prêmio casi triplicó la conversión del tráfico de datos móviles y revolucionó la forma de segmentar por grupos de interés. A fin de cuentas, conseguimos aumentar los ingresos, incluso reduciendo el número de envíos.",
+
+	"testemunho-2" : "El uso de SMARKIO nos ha permitido, en un corto espacio de tiempo, revitalizar nuestro listado de noticias. A partir de las campañas superpuestas (overlay) y del chat automatizado, alcanzamos tasas de interacción muy interesantes. Una interacción con visitantes que están mostrando interés en un determinado servicio o producto, por lo que el valor de captación de contactos de clientes (leads) es tremendo! Sin SMARKIO, estos visitantes serían \"unos más\" en medio de tantos que entran y dejan el sitio web sin que podamos ponernos en contacto con ellos.",
+
+	"testemunho-3" : "No tener una solución de automatización de marketing es un <i>problema</i> para cualquier marketer. En una estrategia de mercado de atracción (marketing inbond), SMARKIO ayuda a generar más y mejores resultados, garantiza leads más apreciados y aumenta la eficacia.",
+
+	"title-clientes-list" : "Lista de clientes",
+	"subtitle-clientes-list" : "Algunas de las empresas que confían en SMARKIO:"
+}
+
+
+

@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+	<meta charset="UTF-8">
+	<title>SMARKIO | 404</title>
+	<link rel="stylesheet" type="text/css" media="screen" href="normalize.css">
+	<link rel="stylesheet" type="text/css" media="screen" href="style-404.css">
+	<link rel="stylesheet" type="text/css" media="screen" href="style.css">
+	<link rel="icon" type="image/x-icon" href="img/favicon.ico" />
+	<link rel="icon" type="image/png" href="img/favicon.png" />
+	<script src="//use.typekit.net/dht3epb.js"></script>
+	<script>try{Typekit.load({ async: true });}catch(e){}</script>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	<meta data-translate="language" name="smk-category" content="language">
+	<meta name="theme-color" content="#0E57A6">
+</head>
+<body class="body-404" id="page">
+
+	<div class="menu-desktop safari-only no-bg">
+		<a class="logo" href="index.html"></a>
+		<ul >
+			<li><a data-translate="menu-inicio" href="//smark.io/">Home</a></li>
+			<li><a data-translate="menu-servicos" href="services.html">Services</a></li>
+			<li><a data-translate="menu-casos" href="use-cases.html">Success Cases</a></li>
+			<li><a data-translate="menu-sobre" href="about.html">About</a></li>
+			<li><a data-translate="menu-carreiras" href="careers.html">Careers</a></li>
+			<li>
+				<div class="language-flag" >
+					<img data-translate="lingua-icone" src="img/flag/empty.png" alt="">
+					<div class="language-select">
+						<img src="img/flag/pt.png" class="language-selector" data-lang="pt" alt="PT">
+						<img src="img/flag/pt-br.png" class="language-selector" data-lang="br" alt="PT-BR">
+						<img src="img/flag/en.png" class="language-selector" data-lang="en" alt="EN">
+						<img src="img/flag/es.png" class="language-selector" data-lang="es" alt="ES">
+					</div>
+				</div>
+			</li>
+		</ul>
+	</div>
+
+	<div class="menu-mobile safari-only no-bg">
+		<div class="button-menu open" id="open-menu"></div>
+		<div class="button-menu close" id="close-menu"></div>
+		<a class="logo-mobile" href="index.html"></a>
+		<ul>
+			<li><a data-translate="menu-inicio" href="//smark.io/">Home</a></li>
+			<li><a data-translate="menu-servicos" href="services.html">Services</a></li>
+			<li><a data-translate="menu-casos" href="use-cases.html">Success Cases</a></li>
+			<li><a data-translate="menu-sobre" href="about.html">About</a></li>
+			<li><a data-translate="menu-carreiras" href="careers.html">Careers</a></li>
+			<li>
+				<img src="img/flag/pt.png" class="language-selector" data-lang="pt" alt="PT">
+				<img src="img/flag/pt-br.png" class="language-selector" data-lang="br" alt="PT-BR">
+				<img src="img/flag/en.png" class="language-selector" data-lang="en" alt="EN">
+				<img src="img/flag/es.png" class="language-selector" data-lang="es" alt="ES">
+			</li>
+		</ul>
+	</div>
+
+	<div class="error" style="display:table;">
+	  <div style="display:table-cell;vertical-align:middle;">
+
+	    	<p data-translate="404-1">Oops, it seems like you found a missing piece.</p>
+			<p style="" data-translate="404-2">Sorry, this page does not exist.</p>
+			<a href="index.html" data-translate="404-home">Return home</a>
+			<button onclick="goBack()" data-translate="404-back">Previous page</button>
+
+	</div>
+
+	<script>
+
+
+	function goBack() {
+	    window.history.back();
+	}
+
+	function updateLang(lang){
+		lang = (lang==null)?getCookie('smk_lang'):lang;
+		$("[data-translate]").jqTranslate('404',{
+			'forceLang':(lang==null?'en':lang),
+
+
+		});
+	}
+
+
+
+
+
+	</script>
+	<script src="js/jqueryTranslator.min.js"></script>
+	<script src="js/smk-func.js"></script>
+	<script type="text/javascript" async src="//p.smrk.io/jic/rr.php?b=624d0be2f635bf4b080c824e7b86c24f32137966"></script>
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-55444269-1', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
+
+</body>
+</html>

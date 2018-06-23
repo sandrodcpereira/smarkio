@@ -1,0 +1,60 @@
+{
+	"page-title" : "SMARKIO | Carreiras",
+	"language" : {
+        "content" : "pt"
+    },
+	"lingua-icone" : {
+        "src" : "img/flag/pt.png"
+    },
+	"menu-inicio" : "Início",
+	"menu-servicos" : "Serviços",
+	"menu-casos" : "Casos de Sucesso",
+	"menu-sobre" : "Sobre",
+	"menu-carreiras" : "Carreiras",
+
+	"title-careers" : "Carreiras",
+	"subtitle-careers" : "Queres fazer parte da equipa SMARKIO?<br>Junta-te a nós!",
+
+	"title-perks" : "Benefícios",
+	"subtitle-perks" : "Eis alguns dos benefícios que esperam por ti, caso te juntes a nós:",	
+
+	"title-perk-item-1" : "Cozinha equipada",
+	"text-perk-item-1" : "Pão, fruta, e cozinha equipada para qualquer refeição. <i>Also</i>: bolos.",	
+
+	"title-perk-item-2" : "Muita diversão",
+	"text-perk-item-2" : "Diversão garantida. Temos matrecos, NERFs, e muitas actividades.",	
+
+	"title-perk-item-3" : "Equipa fantástica",
+	"text-perk-item-3" : "Uma equipa pequena, mas trabalhadora e acolhedora.",	
+
+	"title-perk-item-4" : "Formação contínua",
+	"text-perk-item-4" : "Na SMARKIO nunca vais parar de aprender e de crescer.",	
+
+	"title-perk-item-5" : "Óptima localização",
+	"text-perk-item-5" : "Localizado numa zona jovem, dinâmica, e com óptimos acessos.",	
+
+
+	"title-openings" : "Vagas abertas",
+	"subtitle-openings" : "Estamos à procura de pessoas para as seguintes vagas:",	
+
+	"title-no-openings" : "Sem vagas abertas",
+	"subtitle-no-openings" : "De momento não estamos à procura de reforçar a equipa. Por favor volta mais tarde ou envia-nos uma candidatura espontânea.",	
+
+	"send-cv" : "Enviar candidatura",
+	"send-cv-2" : "Enviar candidatura espontânea",
+
+	"title-candidatura" : "Candidaturas espontâneas",
+	"subtitle-candidatura" : "Não encontraste o que procuravas? Envia-nos uma candidatura espontânea!",	
+
+	"job-qa" : "We are SMARKIO - Sales and Marketing Integration and Optimization, a spin-off from Adclick. We are specialized in the optimization of company’s digital initiatives using our very own technology. We are spread between Porto (Portugal), S.Paulo and Itajubá (Brazil).<br><br>As a QA Software Tester, this is what you can do at Smarkio: <br><br>Plan and design test cases for SMARKIO functionalities to ensure we deliver high quality solutions<br>Execute the test cases, track and log the defects, liaise with Product Develop team to have them fixed and re-test them to ensure your test cases are completed<br>Be part of the SCRUM workflow to have new functionalities tested, define and validate acceptance criteria for each issue in the SCRUM<br>Propose changes to the Product based on your experience testing the solution<br>Take control of testing environment and get help from Product and Operations team to have that environment setup, updated with latest releases and ready for your tests<br>Contribute to our documentation<br>Propose and adopt test tools to deliver your work<br>Publish reports on Test Plans, Test Cases, Tests Coverage and overall quality of our solution<br>Learn something new everyday<br><br>As a QA Analyst, this is what you will bring:<br>Passion for quality<br>A degree in Software Engineering or Similar<br>Some experience working with SQL databases (you should be able to check data on database as you perform your tests)<br>Positive attitude<br>Commitment to make our clients happy<br><br>We also value:<br>Previous experience on Software Quality Assurance<br>ISTQB certification<br>Willingness to work using Agile methodologies<br>Autonomy<br><br>If you are who we are looking for, send your CV to <a href=\"mailto:jobs@smark.io?subject=Marketeer\">jobs@smark.io</a>",
+
+	"job-marketing" : "Sales, Marketing, Integration, and Optmization are the elements that comprise a tool developed to align the shopping process of consumers with the selling plans of our clients. Created by Adclick, which was elected the best Portuguese company in the terciary sector in 2015 and part of the select group of the 500 tech companies of Europe, Middle East, and Africa, SMARKIO is based on the marketing know-how and the technological infrastructure that originated there.<br><br>SMARKIO helps its clients know and understand their customers, new and existing, by targeting them in a personalized fashion before, during, and after the sale. With a technology developed to adapt to different contexts and needs, the planned and smart automation increases the productivity of the sales channels and generates a higher return of marketing investment - online and offline.<br><br>We have a VERY informal and dynamic environment where each person can and should make a difference.<br><br>We are looking for a Business Developer who can generate pipeline and work it through to the sale. SMARKIO has two target customers: large corporations that operate in the B2C area (Finance, Insurance, Automotive, Telcos and Utilities) and medium companies that need to increase conversion from visitors to contacts on their website. While maintaining a small client list, it’s expected to assist those clients, and develop their accounts.<br><br>What you will do:<br>• Create a pipeline based on prospects you will search<br>• Follow those prospects and convert into sales<br>• Pursue sales targets<br>• Manage client accounts delivering to promise and identifying new opportunities<br><br>What we offer you:<br>• Opportunity to deal with clients in Portugal and abroad<br>• Opportunity to learn and work with cutting edge digital sales & marketing technology<br>• To be a part of a team that will work towards client satisfaction<br>• Integration in a group of companies with strong presence in Digital Marketing (Adclick, Emailbidding, Beeleads)<br>• To be a part of a young team in an informal, relaxed, startup-like atmosphere<br>• Access to company partnerships<br>What you need to bring:<br>• Degree<br>• Proven digital marketing experience<br>• Proven Commercial Experience<br>• Excellent communication capabilities<br>• Account/client management experience: manage expectations and identify new opportunities<br>• Ability to communicate both in Portuguese and Spanish. Ability to read /write in English<br>• Ability to define KPIs and measure results from campaigns<br><br>Send an introductory email (with your CV) to <a href=\"mailto:jobs@smark.io?subject=SMARKIO - Business Developer\">jobs@smark.io</a> with the subject \"SMARKIO - Business Development\"",
+
+	"job-web-dev": "We are SMARKIO ­- Sales and Marketing Integration and Optimization, a spin­off from Adclick. We are specialized in the optimization of company's digital initiatives using our very own technology. We are spread between Porto (Portugal), S.Paulo and Itajubá (Brazil).<br><br>­As a ­Web Developer this is what you can do at SMARKIO:<br>• Work in an agile environment following SCRUM methodology<br>• Work in a distributed platform that processes millions of records of data everyday<br>• Work with the following technologies: PHP, MySQL, MongoDB, RabbitMQ, Redis, Memcached, Javascript, JQuery<br>• Code new functionalities according to System Requirements defined and meeting all agreed acceptance criteria<br>• Write Unit Tests; Review peers source code<br>• Have your code hit the Continuous Integration servers (CircleCI) to run the tests<br>• Have your code deployed to Amazon AWS<br>• Contribute to our documentation<br>• Learn something new everyday<br><br>As a Web Developer, this is what you will bring:<br>• Passion for technology<br>• A degree in Software Engineering or Similar<br>• Solid skills in Web Development (PHP, HTML, CSS, Javascript, SQL)<br>• Positive attitude<br><br>We also value:<br>­• Experience with Symfony framework­• Experience with messaging/queue systems (We use RabbitMQ a lot)<br>­• Willingness to work using Agile methodologies<br>­• Good knowledge of cloud technologies (mainly Amazon AWS)",
+
+	"job-front-end" : "[job description goes here]",
+
+	"job-designer" : "[job description goes here]",
+
+	"job-copywriter" : "[job description goes here]"
+}

@@ -1,0 +1,82 @@
+{
+	"page-title" : "SMARKIO | Casos de Sucesso",
+	"language" : {
+        "content" : "pt-br"
+    },
+	"lingua-icone" : {
+        "src" : "img/flag/pt-br.png"
+    },
+	"menu-inicio" : "Início",
+	"menu-servicos" : "Serviços",
+	"menu-casos" : "Casos de Sucesso",
+	"menu-sobre" : "Sobre",
+	"menu-carreiras" : "Carreiras",
+
+	"title-use-cases" : "Casos de Sucesso",
+	"subtitle-use-cases" : "Alguns casos de sucesso do SMARKIO.",
+
+	"title-industry" : "Indústrias",
+	"subtitle-industry" : "Veja em quais indústrias o SMARKIO opera atualmente e alguns exemplos de como tiramos proveito das funcionalidades para aumentar o negócio de cada uma delas.",
+
+	"industry-item-1-title" : "Financeira",
+	"industry-item-1-content" : "<b>8 vezes</b> mais vendas.<br>Contato em <b>tempo real</b>.",
+
+	"industry-item-2-title" : "Educação",
+	"industry-item-2-content" : "<b>Recuperação</b> de abandono de carrinho.",
+
+	"industry-item-3-title" : "Têxtil",
+	"industry-item-3-content" : "Régua de comunicação integrada com <b>email e SMS</b>.",
+
+	"industry-item-4-title" : "Seguros",
+	"industry-item-4-content" : "<b>Reactivação</b> de clientes.",
+
+	"industry-item-5-title" : "Energia",
+	"industry-item-5-content" : "<b>Integração multicanal</b> e distribuição de leads.",
+
+
+	"title-use-cases-2" : "Casos de Uso",
+	"subtitle-use-cases-2" : "Veja alguns exemplos do SMARKIO em acção.",
+
+	"ekpt-case" : "Caso de Uso - E-konomista",
+	"ekpt-case-1" : "Em conjunto com o SMARKIO, os gestores do portal E-konomista trabalharam para encontrar soluções que melhorassem o desempenho insatisfatório do formulário apresentado nas suas páginas.<br><br>Procuramos encontrar uma solução que permitisse dar mais visibilidade ao campo de coleta de e-mail, pensando em aumentar a taxa de conversão visita/lead. Optamos por usar os Overlays para que esse campo não passasse despercebido.<br><br>Os resultados falam por si!",
+	"ekpt-case-2" : "1. Substituição de formulário na página por overlay",
+	"ekpt-case-3" : "Formulário na página<p>0,25%<br><span>visit to lead conversion rate</span>",
+	"ekpt-case-4" : "Overlay genérico<p>+248%<br><span>visit to lead conversion rate</span>",
+	"ekpt-case-5" : "O formulário apresentado na página, ainda que colocado <i>above the fold</i>, tinha pouco destaque, prejudicava a navegação no site e tinha uma taxa de conversão de apenas 0,25%. A substituição por <b>um overlay SMARKIO permitiu dar destaque ao conteúdo da página e, ao mesmo tempo, dar uma grande visibilidade ao campo de recolha de e-mail</b>.",
+	"ekpt-case-6" : "2. Segmentação dos overlays",
+	"ekpt-case-7" : "Segmento \"Poupança\"<p class=\"negative\">-9%<br><span>visit to lead conversion rate</span>",
+	"ekpt-case-8" : "Segmento \"Impostos\"<p>+214%<br><span>visit to lead conversion rate</span>",
+	"ekpt-case-9" : "Segmento <span style=\"font-size: 15px\">\"Empreendedorismo\"</span><p>+256%<br><span>visit to lead conversion rate</span>",
+	"ekpt-case-10" : "Segmento \"Emprego\"<p>+46%<br><span>visit to lead conversion rate</span>",
+	"ekpt-case-11" : "+45%<br><span>overall conversion rate</span>",
+
+	"ekpt-case-12" : "Depois de provada a eficácia do overlay SMARKIO na coleta de leads, procuramos maximizar a visibilidade conferida ao campo de coleta do e-mail. Ao segmentar o overlay e mostrar conteúdo relevante para cada visitante, <b>a taxa de conversão passou para até 256%</b>.",
+	"ekpt-case-13" : "3. Conclusão e resultados finais",
+	"ekpt-case-14" : "+403%<br><span>lead conversion rate</span>",
+	"ekpt-case-15" : "Formulário na página<p>0,25%<br><span>visit to lead conversion rate</span>",
+	"ekpt-case-16" : "+248%<br><span>lead conversion rate</span>",
+	"ekpt-case-17" : "Overlay geral<p>0,87%<br><span>visit to lead conversion rate</span>",
+	"ekpt-case-18" : "+45%<br><span>lead conversion rate</span>",
+	"ekpt-case-19" : "Overlay segmentado<p>1,26%<br><span>visit to lead conversion rate</span>",
+
+
+
+	"ekpt-case-20" : "+403%<br><span>lead conversion rate</span>",
+	"ekpt-case-21" : "No final de contas e em apenas dois passos simples, o SMARKIO ajudou o E-konomista a aumentar sua geração de leads em 403%.",
+
+	"fotosport-case-1" : "Caso de Uso - Fotosport",
+	"fotosport-case-2" : "A Fotosport trabalhou com o SMARKIO para aumentar a taxa de conversão de display-to-lead no seu website. O ponto de partida foi um overlay simples, com apenas um campo de coleta de e-mail, exibido em todas as páginas do site.<br><br>Analisado o pedido, optamos por uma abordagem diferente, voltada a extrair o máximo a partir do tráfego existente no site: como os produtos da Fotosport são muito pessoais – referentes à fotografia e ao registro de momentos, em sua maioria –, escolhemos o chat automatizado SMARKIO para dar um toque mais humano à coleta de dados.<br><br>Os formulários foram substituídos por um roteiro acessível, simpático, e direto, de modo a refletir a personalidade do nosso cliente.",
+	"fotosport-case-3" : "Resultados - Conversão por Chat Automatizado",
+	"fotosport-case-4" : "Formulário em overlay<p>6,7%<br><span>display to lead conversion rate</span>",
+	"fotosport-case-5" : "Chat automatizado <p>8,3%<br><span>display to lead conversion rate</span>",
+	"fotosport-case-6" : "+23,3%<br><span>conversion increase</span>",
+	"fotosport-case-7" : "Nas duas campanhas, genérica e específica de produto, verificamos um crescimento na taxa de conversão quando substituímos o formulário por um chat automatizado SMARKIO. <b>O aumento registrado foi de 23,3%.</b>",
+	"fotosport-case-8" : "Resultados - Conversão por Segmentação",
+	"fotosport-case-9" : "Campanha genérica<p>7,3%<br><span>display to lead conversion rate</span>",
+	"fotosport-case-10" : "Campanha segmentada <p>22,1%<br><span>display to lead conversion rate</span>",
+	"fotosport-case-11" : "+201%<br><span>conversion increase</span>",
+	"fotosport-case-12" : "Ao mostrar conteúdo relevante às preferências dos visitantes, segmentando o chat exibido, conseguimos também aumentar a taxa de engajamento e converter um número maior de visitas em leads. Comparando com a campanha genérica, <b>houve aumento de 201%</b>."
+
+
+
+}

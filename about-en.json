@@ -1,0 +1,40 @@
+{
+	"page-title" : "SMARKIO | About",
+	"language" : {
+        "content" : "en"
+    },
+	"lingua-icone" : {
+        "src" : "img/flag/en.png"
+    },
+	"menu-inicio" : "Home",
+	"menu-servicos" : "Services",
+	"menu-casos" : "Success Cases",
+	"menu-sobre" : "About",
+	"menu-carreiras" : "Careers",
+
+	"title-sobre" : "About us",
+	"subtitle-sobre" : "A Portuguese startup with a world-class team",
+	"title-historia" : "Our story",
+	"subtitle-historia" : "Where we came from and where we are headed.",
+	"content-historia" : "Adclick has been a part of the digital marketing landscape in Portugal, Brazil, and 11 other countries since 2007. The Impacting Group, which consists of Adclick, Beeleads, and Emailbidding, presents <b>SMARKIO</b> as the next step in its continuing business evolution.<br><br><b>S</b>ales, <b>Mark</b>eting, <b>I</b>ntegration, and <b>O</b>ptmization are the elements that comprise a tool developed to align the shopping process of consumers with the selling plans of our clients. Created by Adclick, which was elected the best Portuguese company in the terciary sector in 2015 and part of the select group of the 500 tech companies of Europe, Middle East, and Africa, <b>SMARKIO</b> is based on the marketing know-how and the technological infrastructure that originated there.<br><br><b>SMARKIO</b> helps its clients know and understand their customers, new and existing, by targeting them in a personalized fashion before, during, and after the sale. With a technology developed to adapt to different contexts and needs, the planned and smart automation increases the productivity of the sales channels and generates a higher return of marketing investment - online and offline.",
+
+	"title-group" : "Impacting Group",
+	"subtitle-group" : "SMARKIO belongs to Impacting Group, which consists of companies like Adclick, Emailbidding, and Beeleads.",
+
+	"group-company-1" : "Adclick started to develop conversion-focused digital marketing technologies in 2007. It is the Portuguese company with the highest recorded growth in the Technology Fast 500 index, and was the best tertiary sector company in Portugal in 2015.",
+
+	"group-company-2" : "Beeleads focuses on the agility of the online market and the optimization of sales for its clients. Based in Brazil since 2011, it mixes Brazilian professionals and technologies with Portuguese know-how.",
+
+	"group-company-3" : "Developed along with proprietary technology to take advantage of investments in digital advertising, Emailbidding helps its clients promote optimized campaigns in multiple highly-qualified bases since 2012.",
+
+	"group-company-4" : "Sales, Marketing, Integration, Optimization: SMARKIO is the result of proprietary technology and our team's know-how, both of which have been continuously proven by the growth of the whole group.",
+
+	"title-numbers" : "Impacting Group: The numbers",
+	"subtitle-numbers" : "Some numbers about our group.",
+	"numbers-1" : "13 countries",
+	"numbers-2" : "130 professionals",
+	"numbers-3" : "8 years",
+
+	"title-equipa" : "Our team",
+	"subtitle-equipa" : "The people behind SMARKIO."
+}

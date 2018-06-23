@@ -1,0 +1,57 @@
+.body-404 {height: 100%; font-family: "Azo Sans", "azo-sans-web", sans-serif; font-style: normal; 
+	background-color: #004870;
+	text-align: center;
+	background-image: url(img/404.svg);
+	background-position: top center;
+	background-repeat: repeat-x;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+
+.error {
+	width: 100%;
+	height: 100%;
+}
+
+.error > div {
+	padding: 210px 20px 0px 20px ;
+	margin: 0 auto;
+	border-radius: 4px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	background-image: url(sale.png);
+	background-repeat: no-repeat;
+	background-position: 16px center;
+	color: #ffffff;
+}
+
+.error > div > p {font-size: 28px; color: #ffffff; line-height: 32px; font-weight: 700;}
+.error > div > p:nth-child(2) {font-size: 18px; font-weight: 300; color: #8893a2}
+.error > div > a, .error > div > button {
+	width: 120px;
+	display: inline-block;
+	text-decoration: none;
+	background-color: #0e57a6;
+	color: #ffffff;
+	font-size: 14px;
+	padding: 15px 0 ;
+	border-radius: 10px;
+	margin: 20px 5px;
+	border: none;
+}
+
+@media screen and (max-width: 500px) {
+	.error > div > a, .error > div > button {
+		display: block;
+		width: 100%;
+	}
+
+	.error > div {
+		padding-top: 260px;
+	}
+
+	.error > div > p {font-size: 18px; color: #ffffff; line-height: 20px;}
+	.error > div > p:nth-child(2) {font-size: 14px; font-weight: 300; color: #8893a2}
+
+}

@@ -1,0 +1,43 @@
+{
+	"page-title" : "SMARKIO | Acerca de nosotros",
+	"language" : {
+        "content" : "es"
+    },
+	"lingua-icone" : {
+        "src" : "img/flag/es.png"
+    },
+	"menu-inicio" : "Inicio",
+	"menu-servicos" : "Servicios",
+	"menu-casos" : "Casos de éxito",
+	"menu-sobre" : "Acerca de nosotros",
+	"menu-carreiras" : "Trabaja con nosotros",
+
+	"title-sobre" : "Acerca de nosotros",
+	"subtitle-sobre" : "Una empresa emergente portuguesa con estirpe global.",
+
+	"title-historia" : "Nuestra historia",
+	"subtitle-historia" : "De dónde venimos y hacia dónde vamos.",
+
+	"content-historia" : "Adclick actúa en el mercado digital en Portugal, Brasil y en 11 países más desde 2007. El grupo Impacting, formado por Adclick, Beeleads y Emailbidding, presenta <b>SMARKIO</b> como un punto más de la constante evolución de los negocios realizados por Impacting.<br><br><b>S</b>ales, <b>Mark</b>eting, <b>I</b>ntegration y<b>O</b>ptmizacion son los elementos que componen una herramienta desarrollada para alinear el proceso de compra de los consumidores con los planes de ventas de nuestros clientes. Creada por Adclick, elegida como mejor empresa del sector terciario portugués en 2015, <b>SMARKIO</b> se apoya tanto en el alto conocimiento del mercado como en la fuerte estructura tecnológica de la empresa portuguesa, integrante del selecto ranking de las 500 empresas de tecnología más desarrolladas de Europa, Oriente Próximo y África (EMEA).<br><br>O <b>SMARKIO</b> permite a los clientes conocer y entender mejor a sus consumidores, nuevos o ya existentes, así como tratarlos de forma personalizada antes, durante y después de las ventas. Con una tecnología desarrollada para adaptarse a diferentes realidades o necesidades, la automatización planificada e inteligente aumenta la productividad de los canales de venta y genera un mayor retorno de las inversiones de marketing por Internet y por medios convencionales.",
+
+	"title-group" : "El grupo Impacting",
+	"subtitle-group" : "SMARKIO forma parte del grupo Impacting, poseedor de empresas como Adclick, Emailbidding y Beeleads.",
+
+	"group-company-1" : "Adclick comenzó desarrollando tecnologías de apoyo de marketing digital en 2007. Es la empresa portuguesa con mayor crecimiento en Technology Fast 500 y fue la mejor del sector terciario portugués en 2015.",
+
+	"group-company-2" : "Beeleads actúa en Brasil desde 2011 y añade un equipo y plataformas brasileñas al buen hacer portugués, centrándose en la agilidad del marketing en línea y en la búsqueda de un aumento de las ventas para sus clientes.",
+
+	"group-company-3" : "Desarrollada con tecnología propia para potenciar inversiones en publicidad digital, Emailbidding ayuda a sus clientes a promover campañas en múltiples bases ultracualificadas y de forma optimizada desde 2012.",
+
+	"group-company-4" : "Las ventas, el marketing, la integración y la optimización representan la suma entre el buen hacer del equipo SMARKIO y la tecnología desarrollada y ampliamente consagrada por el crecimiento continuo de Adclick y del grupo Impacting.",
+
+
+	"title-numbers" : "Grupo Impacting en cifras",
+	"subtitle-numbers" : "Algunas cifras acerca de nuestro grupo",
+	"numbers-1" : "13 países",
+	"numbers-2" : "130 profesionales",
+	"numbers-3" : "8 años",
+
+	"title-equipa" : "Nuestro equipo ",
+	"subtitle-equipa" : "Conozca a las personas que están detrás de SMARKIO."
+}
